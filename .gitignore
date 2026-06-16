@@ -1,0 +1,14 @@
+# Keil MDK 编译产物
+MDK-ARM/Obj/
+MDK-ARM/List/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.scvd
+MDK-ARM/*.ini
+MDK-ARM/*.bak
+MDK-ARM/JLinkLog.txt
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
